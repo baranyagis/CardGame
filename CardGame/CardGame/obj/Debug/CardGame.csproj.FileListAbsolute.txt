@@ -1,0 +1,30 @@
+C:\Users\baran.kizmaz\Desktop\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\baran.kizmaz\Desktop\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\baran.kizmaz\Desktop\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\baran.kizmaz\Desktop\CardGame\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Users\baran.kizmaz\Desktop\CardGame\CardGame\obj\Debug\CardGame.Form1.resources
+C:\Users\baran.kizmaz\Desktop\CardGame\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+C:\Users\baran.kizmaz\Desktop\CardGame\CardGame\obj\Debug\CardGame.csproj.GenerateResource.cache
+C:\Users\baran.kizmaz\Desktop\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\baran.kizmaz\Desktop\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\baran.kizmaz\Desktop\CardGame\CardGame\obj\Debug\CardGame.pdb
+C:\Users\baran.kizmaz\Desktop\Uygulamam\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\baran.kizmaz\Desktop\Uygulamam\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\baran.kizmaz\Desktop\Uygulamam\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\baran.kizmaz\Desktop\Uygulamam\CardGame\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Users\baran.kizmaz\Desktop\Uygulamam\CardGame\CardGame\obj\Debug\CardGame.Form1.resources
+C:\Users\baran.kizmaz\Desktop\Uygulamam\CardGame\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+C:\Users\baran.kizmaz\Desktop\Uygulamam\CardGame\CardGame\obj\Debug\CardGame.csproj.GenerateResource.cache
+C:\Users\baran.kizmaz\Desktop\Uygulamam\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\baran.kizmaz\Desktop\Uygulamam\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\baran.kizmaz\Desktop\Uygulamam\CardGame\CardGame\obj\Debug\CardGame.pdb
+C:\Users\Baran Yağış\Desktop\UygulamamGuncel\Uygulamam\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\Baran Yağış\Desktop\UygulamamGuncel\Uygulamam\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\Baran Yağış\Desktop\UygulamamGuncel\Uygulamam\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\Baran Yağış\Desktop\UygulamamGuncel\Uygulamam\CardGame\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Users\Baran Yağış\Desktop\UygulamamGuncel\Uygulamam\CardGame\CardGame\obj\Debug\CardGame.Form1.resources
+C:\Users\Baran Yağış\Desktop\UygulamamGuncel\Uygulamam\CardGame\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+C:\Users\Baran Yağış\Desktop\UygulamamGuncel\Uygulamam\CardGame\CardGame\obj\Debug\CardGame.csproj.GenerateResource.cache
+C:\Users\Baran Yağış\Desktop\UygulamamGuncel\Uygulamam\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\Baran Yağış\Desktop\UygulamamGuncel\Uygulamam\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\Baran Yağış\Desktop\UygulamamGuncel\Uygulamam\CardGame\CardGame\obj\Debug\CardGame.pdb
